@@ -15,7 +15,7 @@ Demonstrando a representação das classes e interface no Java.
 
 ## Demonstração do Diagrama UML
 
-![Diagrama UML]([https://raw.githubusercontent.com/rogerio1kg/iPhoneUML/master/src/UML/DiagramaUML_White.png]))
+![Diagrama UML](https://raw.githubusercontent.com/rogerio1kg/iPhoneUML/master/src/UML/DiagramaUML_White.png)
 
 
 ## Licença
